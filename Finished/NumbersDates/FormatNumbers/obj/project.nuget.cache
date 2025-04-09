@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9eWpe7VX2BoI0fP/4FpuDN8Faxm2W1KOq11J6ccQlWEydUhi+y0hHuddsiTN+7a7N0YfGAeTv7qF42pcphUCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikri\\Downloads\\c-sharp-dot-net-essential-training\\Finished\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

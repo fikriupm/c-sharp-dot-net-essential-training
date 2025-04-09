@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nvvt9aOA1T5ebKYgca74tKKtZvhDdISOBFvuu0WrdPk088uww26+gzsfSwufh1f0Sud97mH905UDmsCYwEcNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikri\\Downloads\\c-sharp-dot-net-essential-training\\Finished\\Files\\Challenge\\Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

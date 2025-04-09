@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oqIVvGw59kOoJgp7OPFgh5fTIpq/iuzcYse5VXbSht4cUQrVKcND8t+0iEDGekVhV1dZzPz82kqIWsYUG56uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikri\\Downloads\\c-sharp-dot-net-essential-training\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

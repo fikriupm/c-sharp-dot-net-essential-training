@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgI2I3A1E5hNS2UI0RE66JXYL1dLdVug6LHsroGwBb/Sxm0G6rCvL49A4Oj6lDN4ILCu5LHCTeL3j6/6T/b0Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikri\\Downloads\\c-sharp-dot-net-essential-training\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fikri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
